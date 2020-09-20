@@ -164,11 +164,6 @@ Manmohan Dogra Image"/><br>
 	<sub><b></b>Jenny Dcruz</sub></a><br/>
 	<sub><b>Joint PR Head'19</b></sub><br/>
 </td>
-<td align="center">
-	<a href=""><img src="" width="100px;" alt=" Image"/><br>
-	<sub><b></b></sub></a><br/>
-	<sub><b></b></sub><br/>
-</td>
 </table>
 
 ---
