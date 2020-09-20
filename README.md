@@ -1,4 +1,5 @@
 
+
 # ⚡ CSI SFIT Contribution Archive
 
 <img src="banner.png" alt="Banner Image">
@@ -11,44 +12,66 @@
 ## Table of Contents
 1. <a href="#Research Papers">Research Papers</a>
 2. <a href="#Medium Articles">Medium Articles</a>
-3. <a href="#Awards & Accolades">Awards & Accolades</a>
+3. <a href="#Projects">Projects</a>
 ---
 ### <a name="Research Papers">1. Research Papers</a>
 ***List of all the research papers published by our CSI SFIT Team members over the years:***
 
-  1. [Automated Identification of Disaster News for Crisis Management using Machine Learning and Natural Language Processing](https://ieeexplore.ieee.org/document/9156031/authors#authors)
-Jul 4, 2020 publication | Institute of Electrical and Electronics Engineers (IEEE)
-<br>We are living in unprecedented times and anyone in this world could be impacted by natural disasters in some way or the other. Life is unpredictable and what is to come is unforeseeable. Nobody knows what the very next moment will hold, maybe it could be a disastrous one too. The past cannot be changed but it can act constructively towards the betterment of the current situation, ‘Precaution is better than cure’. To be above this uncertain dilemma of life and death situations, ‘Automated Identification of Disaster News for Crisis Management is proposed using Machine Learning and Natural Language Processing’. A software solution that can help disaster management websites to dynamically show the disaster relevant news which can be shared to other social media handles through their sites. 
+  1. [Automated Identification of Disaster News for Crisis Management using Machine Learning and Natural Language Processing](https://ieeexplore.ieee.org/document/9156031/authors#authors)<br> 
+Jul 4, 2020 publication | Institute of Electrical and Electronics Engineers (IEEE)<br><br> We are living in unprecedented times and anyone in this world could be impacted by natural disasters in some way or the other. Life is unpredictable and what is to come is unforeseeable. Nobody knows what the very next moment will hold, maybe it could be a disastrous one too. The past cannot be changed but it can act constructively towards the betterment of the current situation, ‘Precaution is better than cure’. To be above this uncertain dilemma of life and death situations, ‘Automated Identification of Disaster News for Crisis Management is proposed using Machine Learning and Natural Language Processing’. A software solution that can help disaster management websites to dynamically show the disaster relevant news which can be shared to other social media handles through their sites. 
 <br> 
+
 
 <b>Authors from CSI SFIT: </b>
 <table>
 <td align="center">
-	<a href="https://github.com/jayashree8"><img src="https://avatars1.githubusercontent.com/u/42041359?s=400&u=7edd6867849be2633ab2dc934a9e005a48e33808&v=4" width="100px;" alt="ayashree Domala Image"/><br>
+	<a href="https://github.com/deliciafernandes"><img src="https://avatars3.githubusercontent.com/u/53268119?s=460&u=a7dfaa6f45777e542b202d707d5a25ac3d9beb64&v=4" width="100px;" alt="Delicia Fernandes Image"/><br>
+	<sub><b>Delicia Fernandes</b></sub></a><br/>
+	<sub><b>Chairperson'20</b></sub><br/>
+</td>
+<td align="center">
+	<a href="https://github.com/jayashree8"><img src="https://avatars1.githubusercontent.com/u/42041359?s=400&u=7edd6867849be2633ab2dc934a9e005a48e33808&v=4" width="100px;" alt="Jayashree Domala Image"/><br>
 	<sub><b>Jayashree Domala</b></sub></a><br/>
-	<sub><b>Chairperson'19</b></sub></a><br/>
+	<sub><b>Chairperson'19</b></sub><br/>
 </td>
 <td align="center">
 	<a href="https://github.com/immohann"><img src="https://avatars3.githubusercontent.com/u/48442342?s=460&u=3eb50c4ab56a721c2abde840cb76bea9839e7556&v=4" width="100px;" alt="  
 Manmohan Dogra Image"/><br>
 	<sub><b>Manmohan Dogra</b></sub></a><br/>
-	<sub><b>Joint Tech Head'19</b></sub></a><br/>
+	<sub><b>Joint Tech Head'19</b></sub><br/>
 </td>
 <td align="center">
 	<a href="https://github.com/vinit-masrani"><img src="https://avatars3.githubusercontent.com/u/43826005?s=460&v=4" width="100px;" alt="Vinit Masrani Image"/><br>
 	<sub><b>Vinit Masrani</b></sub></a><br/>
-	<sub><b>Treasurer'19</b></sub></a><br/>
+	<sub><b>Treasurer'19</b></sub><br/>
+</td>
+</table>
+<br>
+
+2. [A Comparative Study on Solar Power Forecasting using Ensemble Learning](https://ieeexplore.ieee.org/document/9142884/authors#authors)<br> 
+Intensifying requests for energy is preceding towards renewable solar energy integration with nonrenewable energy resources. Unlike other nonrenewable energy resources, solar energy is recurrent. Effectual utilization of spontaneously available energy accurate solar power forecasting is essential. This study aims to predict solar power through deep neural networks (DNNs) and various machine learning (ML) techniques on a solar dataset, namely linear regression, support vector regression, random forest, etc. The dataset that is used contains solar power energy extracted every five minutes. Moreover, a comparative study is carried out between DNNs and ML techniques, which helps in crafting suitable decisions to select appropriate forecasting and prediction techniques.
+
+<b>Authors from CSI SFIT: </b>
+<table>
 </td>
 <td align="center">
-	<a href="https://github.com/deliciafernandes"><img src="https://avatars3.githubusercontent.com/u/53268119?s=460&u=a7dfaa6f45777e542b202d707d5a25ac3d9beb64&v=4" width="100px;" alt="Delicia Fernandes Image"/><br>
-	<sub><b>Delicia Fernandes</b></sub></a><br/>
-	<sub><b>Chairperson'20</b></sub></a><br/>
+	<a href="https://github.com/vinit-masrani"><img src="https://avatars3.githubusercontent.com/u/43826005?s=460&v=4" width="100px;" alt="Vinit Masrani Image"/><br>
+	<sub><b>Vinit Masrani</b></sub></a><br/>
+	<sub><b>Treasurer'19</b></sub><br/>
+</td>
+<td align="center">
+	<a href="https://github.com/arbazkhan971"><img src="https://avatars1.githubusercontent.com/u/31075248?s=460&u=017c44cb089db80e95983b660a0252095cf4956e&v=4" width="100px;" alt="  
+Arbaz Image"/><br>
+	<sub><b>  
+Arbaz</b></sub></a><br/>
+	<sub><b>Tech Head'18</b></sub><br/>
 </td>
 </table>
 <br>
 
 ---
 ### <a name="Medium Articles">2. Medium Articles</a>
+***List of all the Medium Articles published by our CSI SFIT Team members over the years:***
 
 1. [The ideal workflow for your Machine Learning Project by Kaif Kohari](https://medium.com/@kaifkohari10/the-ideal-workflow-for-your-machine-learning-project-9df1a7125b17)<br>
 **In this blog**, [@Kaif10](https://github.com/Kaif10) have  **_summarized_**  all the things one should be aware of while working on a Machine Learning project, from data cleaning and analysis  **_to_** choosing the right model and hyperparameter tuning.
@@ -121,39 +144,40 @@ Over the course of this article, you will learn the various features and functio
 <td align="center">
 	<a href="https://github.com/Kaif10"><img src="https://avatars2.githubusercontent.com/u/57802881?s=400&u=b7dcc4e3362bfd58f244410389ad6b82e6067006&v=4" width="100px;" alt="Kaif Kohari Image"/><br>
 	<sub><b>Kaif Kohari</b></sub></a><br/>
-	<sub><b>Joint Tech Head'20</b></sub></a><br/>
+	<sub><b>Joint Tech Head'20</b></sub><br/>
 </td>
 <td align="center">
-	<a href="https://github.com/jayashree8"><img src="https://avatars1.githubusercontent.com/u/42041359?s=400&u=7edd6867849be2633ab2dc934a9e005a48e33808&v=4" width="100px;" alt="ayashree Domala Image"/><br>
+	<a href="https://github.com/jayashree8"><img src="https://avatars1.githubusercontent.com/u/42041359?s=400&u=7edd6867849be2633ab2dc934a9e005a48e33808&v=4" width="100px;" alt="Jayashree Domala Image"/><br>
 	<sub><b>Jayashree Domala</b></sub></a><br/>
-	<sub><b>Chairperson'19</b></sub></a><br/>
+	<sub><b>Chairperson'19</b></sub><br/>
 </td>
 <td align="center">
 	<a href="https://github.com/immohann"><img src="https://avatars3.githubusercontent.com/u/48442342?s=460&u=3eb50c4ab56a721c2abde840cb76bea9839e7556&v=4" width="100px;" alt="  
 Manmohan Dogra Image"/><br>
 	<sub><b>Manmohan Dogra</b></sub></a><br/>
-	<sub><b>Joint Tech Head'19</b></sub></a><br/>
+	<sub><b>Joint Tech Head'19</b></sub><br/>
 </td>
 <td align="center">
 	<a href="https://github.com/jendcruz22"><img src="https://avatars1.githubusercontent.com/u/47320326?s=460&u=33c7ab1d177c3b43c6dd25f088e9707ce44c22bf&v=4" width="100px;" alt="Jenny Dcruz Image"/><br>
 	<sub><b></b>Jenny Dcruz</sub></a><br/>
-	<sub><b>Joint PR Head'19</b></sub></a><br/>
+	<sub><b>Joint PR Head'19</b></sub><br/>
 </td>
 <td align="center">
 	<a href=""><img src="" width="100px;" alt=" Image"/><br>
 	<sub><b></b></sub></a><br/>
-	<sub><b></b></sub></a><br/>
+	<sub><b></b></sub><br/>
 </td>
 </table>
 
 ---
-### <a name="Awards & Accolades">3. Awards & Accolades</a>
-
+### <a name="Projects">3. Projects</a>
+***List of all the projects done by our CSI SFIT Team members over the years:***
+<br>To be added.
 
 ---
 ### **How to Contribute:**
 
-1. Clone repo and create a new branch: `$ git checkout https://github.com/CSI-SFIT/Data-Structures-and-Algorithms--A-Comprehensive-Guide.git -b name_for_new_branch`.
+1. Clone repo and create a new branch: `$ git checkout https://github.com/CSI-SFIT/CSI-SFIT-Contribution-Archive.git -b name_for_new_branch`.
 2. Make changes and test.
 3. Submit Pull Request with comprehensive description of changes.
 
