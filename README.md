@@ -49,8 +49,10 @@ Manmohan Dogra Image"/><br>
 <br>
 
 2. [A Comparative Study on Solar Power Forecasting using Ensemble Learning](https://ieeexplore.ieee.org/document/9142884/authors#authors)<br> 
+June 15, 2020 publication | Institute of Electrical and Electronics Engineers (IEEE)<br><br>
 Intensifying requests for energy is preceding towards renewable solar energy integration with nonrenewable energy resources. Unlike other nonrenewable energy resources, solar energy is recurrent. Effectual utilization of spontaneously available energy accurate solar power forecasting is essential. This study aims to predict solar power through deep neural networks (DNNs) and various machine learning (ML) techniques on a solar dataset, namely linear regression, support vector regression, random forest, etc. The dataset that is used contains solar power energy extracted every five minutes. Moreover, a comparative study is carried out between DNNs and ML techniques, which helps in crafting suitable decisions to select appropriate forecasting and prediction techniques.
 
+<br>
 <b>Authors from CSI SFIT: </b>
 <table>
 </td>
@@ -138,7 +140,7 @@ Over the course of this article, you will learn the various features and functio
 
 22. [Pandas for data analysis by Jenny Dcruz](https://towardsdatascience.com/pandas-for-data-analysis-142be71f63dc)<br>
 
-
+<br>
 <b>Authors from CSI SFIT: </b>
 <table>
 <td align="center">
