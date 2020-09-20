@@ -45,54 +45,56 @@ Manmohan Dogra Image"/><br>
 	<sub><b>Chairperson'20</b></sub></a><br/>
 </td>
 </table>
+<br>
 
+---
 ### <a name="Medium Articles">2. Medium Articles</a>
-1. [The ideal workflow for your Machine Learning Project by Kaif Kohari](https://medium.com/@kaifkohari10/the-ideal-workflow-for-your-machine-learning-project-9df1a7125b17)
+1. [The ideal workflow for your Machine Learning Project by Kaif Kohari](https://medium.com/@kaifkohari10/the-ideal-workflow-for-your-machine-learning-project-9df1a7125b17)<br>
 **In this blog**, [@Kaif10](https://github.com/Kaif10) have  **_summarized_**  all the things one should be aware of while working on a Machine Learning project, from data cleaning and analysis  **_to_** choosing the right model and hyperparameter tuning.
 
-2. [The Large Hadron Collider with Machine Learning by Kaif Kohari](https://medium.com/@kaifkohari10/the-large-hadron-collider-with-machine-learning-7471024ad557)
+2. [The Large Hadron Collider with Machine Learning by Kaif Kohari](https://medium.com/@kaifkohari10/the-large-hadron-collider-with-machine-learning-7471024ad557)<br>
 **In this blog**, [@Kaif10](https://github.com/Kaif10) have  **_writes_** about the Introduction to the Large Hadron Collider, Basic Particle Physics, Working of Large Hadron Collider, Higgs Boson, Machine Learning, Results and Conclusion.
 
-3. [Video-Game Sales Analysis with Python by Kaif Kohari](https://medium.com/@kaifkohari10/video-game-sales-analysis-with-python-68c60648820f)
+3. [Video-Game Sales Analysis with Python by Kaif Kohari](https://medium.com/@kaifkohari10/video-game-sales-analysis-with-python-68c60648820f)<br>
 **In this blog**, [@Kaif10](https://github.com/Kaif10) have  **_works_** with a cool dataset which contains data about Video Games sales across various regions in the world from 2015. 
 
-4. [Conditional statements in Python by Jayashree Domala](https://medium.com/@domalajayashree/conditional-statements-in-python-f9819aa983b5)
+4. [Conditional statements in Python by Jayashree Domala](https://medium.com/@domalajayashree/conditional-statements-in-python-f9819aa983b5)<br>
 A guide to understanding if, else, elif statements in python.
 
-5. [Python comparison operators by Jayashree Domala](https://medium.com/@domalajayashree/python-comparison-operators-a97780eb87ad)
+5. [Python comparison operators by Jayashree Domala](https://medium.com/@domalajayashree/python-comparison-operators-a97780eb87ad)<br>
 Guide to understand the working of comparison operators in Python.
 
-6. [Python I/O commands for text files by Jayashree Domala](https://medium.com/@domalajayashree/python-i-o-commands-for-text-files-296f33502feb)
+6. [Python I/O commands for text files by Jayashree Domala](https://medium.com/@domalajayashree/python-i-o-commands-for-text-files-296f33502feb)<br>
 An informative guide to perform I/O basics with text files.
 
-7. [Booleans in Python by Jayashree Domala](https://medium.com/@domalajayashree/booleans-in-python-c11605d01ba1)
+7. [Booleans in Python by Jayashree Domala](https://medium.com/@domalajayashree/booleans-in-python-c11605d01ba1)<br>
 A guide to understanding booleans in Python.
 
-8. [Sets in Python by Jayashree Domala](https://medium.com/@domalajayashree/sets-in-python-b8a6aa6899d6)
+8. [Sets in Python by Jayashree Domala](https://medium.com/@domalajayashree/sets-in-python-b8a6aa6899d6)<br>
 A guide to knowing more about set data type in Python.
 
-9. [Tuples in python by Jayashree Domala](https://medium.com/@domalajayashree/tuples-in-python-6f3cf07ddfdc)
+9. [Tuples in python by Jayashree Domala](https://medium.com/@domalajayashree/tuples-in-python-6f3cf07ddfdc)<br>
 A guide to understanding tuples in Python. 
 
-10. [Understanding python dictionaries by Jayashree Domala](https://medium.com/@domalajayashree/understanding-python-dictionaries-5639ed677d48)
+10. [Understanding python dictionaries by Jayashree Domala](https://medium.com/@domalajayashree/understanding-python-dictionaries-5639ed677d48)<br>
 A guide to learn about dictionaries in Python.
 
-11. [Understanding lists in Python by Jayashree Domala](https://medium.com/@domalajayashree/understanding-python-dictionaries-5639ed677d48)
+11. [Understanding lists in Python by Jayashree Domala](https://medium.com/@domalajayashree/understanding-python-dictionaries-5639ed677d48)<br>
 A guide to learn about dictionaries in Python.
 
-12. [Geometry of linear equations for machine learning by Jayashree Domala](https://medium.com/@domalajayashree/geometry-of-linear-equations-for-machine-learning-3253577a77f6)
+12. [Geometry of linear equations for machine learning by Jayashree Domala](https://medium.com/@domalajayashree/geometry-of-linear-equations-for-machine-learning-3253577a77f6)<br>
 A guide to help you understand linear algebra to get started with machine learning.
 
-13. [Understanding Python strings by Jayashree Domala](https://medium.com/@domalajayashree/understanding-python-strings-8783506a9a4a)
+13. [Understanding Python strings by Jayashree Domala](https://medium.com/@domalajayashree/understanding-python-strings-8783506a9a4a)<br>
 A guide to understand the python strings and string formatting.
 
-14. [Understanding python number data type in detai by Jayashree Domalal](https://medium.com/@domalajayashree/understanding-python-number-data-type-in-detail-de061daefef8)
+14. [Understanding python number data type in detai by Jayashree Domalal](https://medium.com/@domalajayashree/understanding-python-number-data-type-in-detail-de061daefef8)<br>
 A guide to help you understand the Python number data type.
 
-15. [How to set up python in a Windows system? by Jayashree Domala](https://medium.com/@domalajayashree/how-to-set-up-python-in-a-windows-system-920d6ac2549b)
+15. [How to set up python in a Windows system? by Jayashree Domala](https://medium.com/@domalajayashree/how-to-set-up-python-in-a-windows-system-920d6ac2549b)<br>
 A step by step guide for python installation.
 
-16. [Understanding Artificial Intelligence and its subsets by Jayashree Domala](https://medium.com/@domalajayashree/understanding-artificial-intelligence-and-its-subsets-8e20a493d598)
+16. [Understanding Artificial Intelligence and its subsets by Jayashree Domala](https://medium.com/@domalajayashree/understanding-artificial-intelligence-and-its-subsets-8e20a493d598)<br>
 A guide to know about AI subsets and how to get started with it.
 
 <b>Authors from CSI SFIT: </b>
@@ -120,8 +122,8 @@ Manmohan Dogra Image"/><br>
 </td>
 </table>
 
----
 
+---
 ### **How to Contribute:**
 
 1. Clone repo and create a new branch: `$ git checkout https://github.com/CSI-SFIT/Data-Structures-and-Algorithms--A-Comprehensive-Guide.git -b name_for_new_branch`.
