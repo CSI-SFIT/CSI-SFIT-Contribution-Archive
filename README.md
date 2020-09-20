@@ -49,6 +49,7 @@ Manmohan Dogra Image"/><br>
 
 ---
 ### <a name="Medium Articles">2. Medium Articles</a>
+
 1. [The ideal workflow for your Machine Learning Project by Kaif Kohari](https://medium.com/@kaifkohari10/the-ideal-workflow-for-your-machine-learning-project-9df1a7125b17)<br>
 **In this blog**, [@Kaif10](https://github.com/Kaif10) have  **_summarized_**  all the things one should be aware of while working on a Machine Learning project, from data cleaning and analysis  **_to_** choosing the right model and hyperparameter tuning.
 
@@ -97,6 +98,24 @@ A step by step guide for python installation.
 16. [Understanding Artificial Intelligence and its subsets by Jayashree Domala](https://medium.com/@domalajayashree/understanding-artificial-intelligence-and-its-subsets-8e20a493d598)<br>
 A guide to know about AI subsets and how to get started with it.
 
+17. [Lyrics Generator using LSTM on TF 2.0 by Manmohan Dogra](https://medium.com/analytics-vidhya/lyrics-generator-using-lstm-on-tf-2-0-3baf524129b0)
+In this article, you will learn the essentials of RNN’s LSTM model, basic about NLP, and how to utilize them to make a Lyrics Generator on feeding few words as input by utilizing the Tensorflow 2.0 framework.
+
+18. [How to visualize data using Power BI? by Jenny Dcruz](https://towardsdatascience.com/how-to-visualize-data-using-power-bi-9ec1413e976e)
+Use Microsoft Power BI to gain business intelligent insights.
+
+19. [Excel, Tableau, Power BI… What should you use? by Jenny Dcruz](https://towardsdatascience.com/excel-tableau-power-bi-what-should-you-use-336ef7c8f2e0)
+Find out what you need for data analysis or visualization.
+
+20. [Artificial Intelligence in Web Development by Jenny Dcruz](https://blog.usejournal.com/artificial-intelligence-in-web-development-ed1514f5cf2e)
+Learn how to take customer engagement to a new level.
+
+21. [Fundamentals of NumPy by Jenny Dcruz](https://towardsdatascience.com/fundamentals-of-numpy-a7e94d260845)
+Over the course of this article, you will learn the various features and functions of the Python library, NumPy.
+
+22. [Pandas for data analysis by Jenny Dcruz](https://towardsdatascience.com/pandas-for-data-analysis-142be71f63dc)
+
+
 <b>Authors from CSI SFIT: </b>
 <table>
 <td align="center">
@@ -116,11 +135,19 @@ Manmohan Dogra Image"/><br>
 	<sub><b>Joint Tech Head'19</b></sub></a><br/>
 </td>
 <td align="center">
+	<a href="https://github.com/jendcruz22"><img src="https://avatars1.githubusercontent.com/u/47320326?s=460&u=33c7ab1d177c3b43c6dd25f088e9707ce44c22bf&v=4" width="100px;" alt="Jenny Dcruz Image"/><br>
+	<sub><b></b>Jenny Dcruz</sub></a><br/>
+	<sub><b>Joint PR Head'19</b></sub></a><br/>
+</td>
+<td align="center">
 	<a href=""><img src="" width="100px;" alt=" Image"/><br>
 	<sub><b></b></sub></a><br/>
 	<sub><b></b></sub></a><br/>
 </td>
 </table>
+
+---
+### <a name="Awards & Accolades">3. Awards & Accolades</a>
 
 
 ---
