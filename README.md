@@ -98,22 +98,22 @@ A step by step guide for python installation.
 16. [Understanding Artificial Intelligence and its subsets by Jayashree Domala](https://medium.com/@domalajayashree/understanding-artificial-intelligence-and-its-subsets-8e20a493d598)<br>
 A guide to know about AI subsets and how to get started with it.
 
-17. [Lyrics Generator using LSTM on TF 2.0 by Manmohan Dogra](https://medium.com/analytics-vidhya/lyrics-generator-using-lstm-on-tf-2-0-3baf524129b0)
+17. [Lyrics Generator using LSTM on TF 2.0 by Manmohan Dogra](https://medium.com/analytics-vidhya/lyrics-generator-using-lstm-on-tf-2-0-3baf524129b0)<br>
 In this article, you will learn the essentials of RNN’s LSTM model, basic about NLP, and how to utilize them to make a Lyrics Generator on feeding few words as input by utilizing the Tensorflow 2.0 framework.
 
-18. [How to visualize data using Power BI? by Jenny Dcruz](https://towardsdatascience.com/how-to-visualize-data-using-power-bi-9ec1413e976e)
+18. [How to visualize data using Power BI? by Jenny Dcruz](https://towardsdatascience.com/how-to-visualize-data-using-power-bi-9ec1413e976e)<br>
 Use Microsoft Power BI to gain business intelligent insights.
 
-19. [Excel, Tableau, Power BI… What should you use? by Jenny Dcruz](https://towardsdatascience.com/excel-tableau-power-bi-what-should-you-use-336ef7c8f2e0)
+19. [Excel, Tableau, Power BI… What should you use? by Jenny Dcruz](https://towardsdatascience.com/excel-tableau-power-bi-what-should-you-use-336ef7c8f2e0)<br>
 Find out what you need for data analysis or visualization.
 
-20. [Artificial Intelligence in Web Development by Jenny Dcruz](https://blog.usejournal.com/artificial-intelligence-in-web-development-ed1514f5cf2e)
+20. [Artificial Intelligence in Web Development by Jenny Dcruz](https://blog.usejournal.com/artificial-intelligence-in-web-development-ed1514f5cf2e)<br>
 Learn how to take customer engagement to a new level.
 
-21. [Fundamentals of NumPy by Jenny Dcruz](https://towardsdatascience.com/fundamentals-of-numpy-a7e94d260845)
+21. [Fundamentals of NumPy by Jenny Dcruz](https://towardsdatascience.com/fundamentals-of-numpy-a7e94d260845)<br>
 Over the course of this article, you will learn the various features and functions of the Python library, NumPy.
 
-22. [Pandas for data analysis by Jenny Dcruz](https://towardsdatascience.com/pandas-for-data-analysis-142be71f63dc)
+22. [Pandas for data analysis by Jenny Dcruz](https://towardsdatascience.com/pandas-for-data-analysis-142be71f63dc)<br>
 
 
 <b>Authors from CSI SFIT: </b>
