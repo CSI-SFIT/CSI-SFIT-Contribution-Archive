@@ -54,7 +54,7 @@ Intensifying requests for energy is preceding towards renewable solar energy int
 
 
 <br>
-<b>Authors from CSI SFIT: </b>
+<b>Authors from CSI SFIT: </b><br> 
 <table>
 </td>
 <td align="center">
