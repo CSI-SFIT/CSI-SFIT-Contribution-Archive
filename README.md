@@ -52,6 +52,7 @@ Manmohan Dogra Image"/><br>
 June 15, 2020 publication | Institute of Electrical and Electronics Engineers (IEEE)<br><br>
 Intensifying requests for energy is preceding towards renewable solar energy integration with nonrenewable energy resources. Unlike other nonrenewable energy resources, solar energy is recurrent. Effectual utilization of spontaneously available energy accurate solar power forecasting is essential. This study aims to predict solar power through deep neural networks (DNNs) and various machine learning (ML) techniques on a solar dataset, namely linear regression, support vector regression, random forest, etc. The dataset that is used contains solar power energy extracted every five minutes. Moreover, a comparative study is carried out between DNNs and ML techniques, which helps in crafting suitable decisions to select appropriate forecasting and prediction techniques.
 
+
 <br>
 <b>Authors from CSI SFIT: </b>
 <table>
@@ -140,6 +141,7 @@ Over the course of this article, you will learn the various features and functio
 
 22. [Pandas for data analysis by Jenny Dcruz](https://towardsdatascience.com/pandas-for-data-analysis-142be71f63dc)<br>
 
+
 <br>
 <b>Authors from CSI SFIT: </b>
 <table>
@@ -161,7 +163,7 @@ Manmohan Dogra Image"/><br>
 </td>
 <td align="center">
 	<a href="https://github.com/jendcruz22"><img src="https://avatars1.githubusercontent.com/u/47320326?s=460&u=33c7ab1d177c3b43c6dd25f088e9707ce44c22bf&v=4" width="100px;" alt="Jenny Dcruz Image"/><br>
-	<sub><b></b>Jenny Dcruz</sub></a><br/>
+	<sub><b>Jenny Dcruz</b></sub></a><br/>
 	<sub><b>Joint PR Head'19</b></sub><br/>
 </td>
 </table>
