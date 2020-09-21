@@ -6,7 +6,7 @@
 
 <p align="center">
 <b><u>CSI SFIT Contribution Archives</u></b><br>
-<i>A repository of all the links to technical articles, research papers & projects of our CSI SFIT Team members over the years.</i>
+<i>A repository of all the links of technical articles, research papers & projects of our CSI SFIT Team members over the years.</i>
 </p>
 
 ## Table of Contents
