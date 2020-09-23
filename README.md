@@ -1,5 +1,3 @@
-
-
 # ⚡ CSI SFIT Contribution Archive
 
 <img src="banner.png" alt="Banner Image">
@@ -18,7 +16,7 @@
 ***List of all the research papers published by our CSI SFIT Team members over the years:***
 
   1. [Automated Identification of Disaster News for Crisis Management using Machine Learning and Natural Language Processing](https://ieeexplore.ieee.org/document/9156031/authors#authors)<br> 
-Jul 4, 2020 publication | Institute of Electrical and Electronics Engineers (IEEE)<br><br> We are living in unprecedented times and anyone in this world could be impacted by natural disasters in some way or the other. Life is unpredictable and what is to come is unforeseeable. Nobody knows what the very next moment will hold, maybe it could be a disastrous one too. The past cannot be changed but it can act constructively towards the betterment of the current situation, ‘Precaution is better than cure’. To be above this uncertain dilemma of life and death situations, ‘Automated Identification of Disaster News for Crisis Management is proposed using Machine Learning and Natural Language Processing’. A software solution that can help disaster management websites to dynamically show the disaster relevant news which can be shared to other social media handles through their sites. 
+Jul 4, 2020 | Institute of Electrical and Electronics Engineers (IEEE)<br><br> We are living in unprecedented times and anyone in this world could be impacted by natural disasters in some way or the other. Life is unpredictable and what is to come is unforeseeable. Nobody knows what the very next moment will hold, maybe it could be a disastrous one too. The past cannot be changed but it can act constructively towards the betterment of the current situation, ‘Precaution is better than cure’. To be above this uncertain dilemma of life and death situations, ‘Automated Identification of Disaster News for Crisis Management is proposed using Machine Learning and Natural Language Processing’. A software solution that can help disaster management websites to dynamically show the disaster relevant news which can be shared to other social media handles through their sites. 
 <br> 
 
 
@@ -68,6 +66,28 @@ Arbaz Image"/><br>
 	<sub><b>  
 Arbaz</b></sub></a><br/>
 	<sub><b>Tech Head'18</b></sub><br/>
+</td>
+</table>
+<br>
+
+3. [Suspect Face Generation](https://ieeexplore.ieee.org/document/9137812/authors#authors)<br> 
+April 3, 2020 | Institute of Electrical and Electronics Engineers (IEEE)<br><br>
+Currently sketch artists are employed by the police to draw sketches of suspects based on the description given by an eye-witness. These sketches can sometimes be inaccurate due to incorrect drawings of the artist or the incorrect description given by the witness. Generative Adversarial Network (GAN) is a way of training a Neural Network to output images which belong to a specific class. This network is trained by using an adversarial process which pits the generator against the discriminator in a minimax game. Traditional GANs are unable to generate high-resolution images hence, StyleGAN is used to resolve this issue. The generated images may still need to be altered to get a close match so TL-GAN is used to alter the generated image by altering the latent-space input of the StyleGAN. TL-GAN offers users the ability to finely tune one or multiple features of the face holistically. The main objective of the proposed work is to develop a Suspect Face Generation System as the sketches made by sketch artists are only 13 out of 160 times (approx. 8%) accurate. This system will help the society in reduction of misidentification of crime suspects and considerably reduce the crime rate.
+
+
+<br>
+<b>Authors from CSI SFIT: </b><br> 
+<table>
+</td>
+<td align="center">
+	<a href=""><img src="" width="100px;" alt="Harsh Jalan Image"/><br>
+	<sub><b>Harsh Jalan</b></sub></a><br/>
+	<sub><b>Chairperson'18</b></sub><br/>
+</td>
+<td align="center">
+	<a href=""><img src="" width="100px;" alt="Canute Corda Image"/><br>
+	<sub><b>Canute Corda</b></sub></a><br/>
+	<sub><b>Creative Executive'18</b></sub><br/>
 </td>
 </table>
 <br>
