@@ -80,12 +80,12 @@ Currently sketch artists are employed by the police to draw sketches of suspects
 <table>
 </td>
 <td align="center">
-	<a href=""><img src="" width="100px;" alt="Harsh Jalan Image"/><br>
+	<a href="https://github.com/HJJ256"><img src="https://avatars1.githubusercontent.com/u/20728855?s=460&v=4" width="100px;" alt="Harsh Jalan Image"/><br>
 	<sub><b>Harsh Jalan</b></sub></a><br/>
 	<sub><b>Chairperson'18</b></sub><br/>
 </td>
 <td align="center">
-	<a href=""><img src="" width="100px;" alt="Canute Corda Image"/><br>
+	<a href="https://github.com/canute0511"><img src="https://avatars0.githubusercontent.com/u/37768517?s=460&u=6aee8a755b6ad2fc79e7d3bd65e835586ffbf3c4&v=4" width="100px;" alt="Canute Corda Image"/><br>
 	<sub><b>Canute Corda</b></sub></a><br/>
 	<sub><b>Creative Executive'18</b></sub><br/>
 </td>
