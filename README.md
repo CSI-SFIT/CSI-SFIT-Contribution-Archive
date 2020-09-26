@@ -103,7 +103,7 @@ Currently sketch artists are employed by the police to draw sketches of suspects
 **In this blog**, [@Kaif10](https://github.com/Kaif10) have  **_writes_** about the Introduction to the Large Hadron Collider, Basic Particle Physics, Working of Large Hadron Collider, Higgs Boson, Machine Learning, Results and Conclusion.
 
 3. [Video-Game Sales Analysis with Python by Kaif Kohari](https://medium.com/@kaifkohari10/video-game-sales-analysis-with-python-68c60648820f)<br>
-**In this blog**, [@Kaif10](https://github.com/Kaif10) have  **_works_** with a cool dataset which contains data about Video Games sales across various regions in the world from 2015. 
+**In this blog**, [@Kaif10](https://github.com/Kaif10) **_works_** with a cool dataset which contains data about Video Games sales across various regions in the world from 2015. 
 
 4. [Conditional statements in Python by Jayashree Domala](https://medium.com/@domalajayashree/conditional-statements-in-python-f9819aa983b5)<br>
 A guide to understanding if, else, elif statements in python.
