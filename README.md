@@ -200,7 +200,12 @@ Manmohan Dogra Image"/><br>
 2. Make changes and test.
 3. Submit Pull Request with comprehensive description of changes.
 
+**Acknowledgements**
 ---
+
+**CSI SFIT Team 2020 - 2021 :**
++ Chairperson : [@Delicia Fernandes](https://github.com/deliciafernandes)
+
 <br>
 <p align="center">
   <a href="https://www.csi.sfit.ac.in/">
