@@ -161,6 +161,8 @@ Over the course of this article, you will learn the various features and functio
 
 22. [Pandas for data analysis by Jenny Dcruz](https://towardsdatascience.com/pandas-for-data-analysis-142be71f63dc)<br>
 
+23. [Tableau visualizations by Jenny Dcruz](https://towardsdatascience.com/tableau-visualizations-dc9e544dc9a8)<br>
+
 
 <br>
 <b>Authors from CSI SFIT: </b>
