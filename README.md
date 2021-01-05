@@ -163,6 +163,8 @@ Over the course of this article, you will learn the various features and functio
 
 23. [Tableau visualizations by Jenny Dcruz](https://towardsdatascience.com/tableau-visualizations-dc9e544dc9a8)<br>
 
+24. [How to get financial data using Python? by Jayashree Domala](https://jayashree8.medium.com/how-to-get-financial-data-using-python-7a508f25fc39)<br>
+
 
 <br>
 <b>Authors from CSI SFIT: </b>
